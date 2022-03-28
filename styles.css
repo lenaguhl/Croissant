@@ -2,7 +2,7 @@ body {
   background-color: lightyellow;
 }
 
-h2 {
+h1 {
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   text-align: center;
@@ -19,6 +19,8 @@ img {
 
 a {
   color: blue;
+  display: block;
+  text-align: center;
 }
 
 p {
